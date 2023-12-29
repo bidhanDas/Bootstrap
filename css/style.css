@@ -1,0 +1,38 @@
+.my-card-img{
+    width: 50px;
+    align-self: center;
+}
+
+.card{
+    border: none !important;
+}
+
+.play-icon{
+    width: 60px;
+    align-self: center;
+}
+
+
+.hero-background{
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/19/15/32/code-1839877_1280.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-attachment: fixed; */
+    
+
+    height: 500px;
+}
+
+.hero-title{
+    margin-top: 180px;
+}
+
+.nav-logo{
+    width: 150px;
+}
+
+.btn-primary:hover{
+    background-color: red !important;
+}
