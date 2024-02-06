@@ -1,17 +1,6 @@
-.my-card-img{
-    width: 50px;
-    align-self: center;
+.nav-logo{
+    width: 150px;
 }
-
-.card{
-    border: none !important;
-}
-
-.play-icon{
-    width: 60px;
-    align-self: center;
-}
-
 
 .hero-background{
     background-image: url('https://cdn.pixabay.com/photo/2016/11/19/15/32/code-1839877_1280.jpg');
@@ -29,10 +18,39 @@
     margin-top: 180px;
 }
 
-.nav-logo{
-    width: 150px;
-}
-
 .btn-primary:hover{
     background-color: red !important;
 }
+
+.my-card-img{
+    width: 50px;
+    align-self: center;
+}
+
+.play-icon{
+    width: 60px;
+    align-self: center;
+}
+
+.card{
+    border: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
