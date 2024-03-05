@@ -24,12 +24,12 @@
 
 .my-card-img{
     width: 50px;
-    align-self: center;
+    align-self: center;    /* have a look */
 }
 
 .play-icon{
     width: 60px;
-    align-self: center;
+    align-self: center;    /* have a look */
 }
 
 .card{
